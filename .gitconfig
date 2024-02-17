@@ -1,3 +1,5 @@
 [user]
 	email = hqwang815@gmail.com
 	name = Huiqing Wang
+[core]
+	editor = nano
