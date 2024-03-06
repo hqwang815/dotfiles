@@ -3,3 +3,7 @@
 	name = Huiqing Wang
 [core]
 	editor = nano
+[pull]
+	rebase = true
+[branch]
+	autosetuprebase = always
