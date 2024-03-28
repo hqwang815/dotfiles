@@ -68,8 +68,8 @@ ZSH_THEME="robbyrussell"
 # or set a custom format using the strftime function format specifications,
 # see 'man strftime' for details.
 HIST_STAMPS="mm/dd/yyyy"
-HISTSIZE=1000000
-SAVEHIST=1000000
+HISTSIZE=999999999
+SAVEHIST=999999999
 
 
 # Would you like to use another custom folder than $ZSH/custom?
@@ -139,4 +139,6 @@ source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 ##################
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
+###################
+export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
 
