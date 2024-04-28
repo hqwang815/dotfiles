@@ -142,3 +142,5 @@ source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 ###################
 export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
 
+#################### add git version 2.44.0  installed from homebrew to PATH ####################
+export PATH="/opt/homebrew/Cellar/git/2.44.0/bin:$PATH"
