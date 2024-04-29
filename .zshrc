@@ -144,3 +144,6 @@ export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/b
 
 #################### add git version 2.44.0  installed from homebrew to PATH ####################
 export PATH="/opt/homebrew/Cellar/git/2.44.0/bin:$PATH"
+
+#########add matlab to PATH##########
+export PATH="$PATH:/Applications/MATLAB_R2023b.app/bin"
