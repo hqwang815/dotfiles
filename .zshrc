@@ -147,3 +147,6 @@ export PATH="/opt/homebrew/Cellar/git/2.44.0/bin:$PATH"
 
 #########add matlab to PATH##########
 export PATH="$PATH:/Applications/MATLAB_R2023b.app/bin"
+
+#########add pandoc extensions to PATH##########
+export PATH="$PATH:$HOME/.local/bin"
